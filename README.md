@@ -2,7 +2,7 @@
 
 Studying Land Surveying Technology at Gävle University College. Enjoy me some computer graphics, though nowerdays GIS/Geospatial is what I'm usually up to.
 
-- [SMHI API Viewer](https://jmspae.github.io/SMHI/) | A simple static webmap for viewing data supplied by the various APIs of the Swedish Meteorological and Hydrological Institute (work in progress).
+- [SMHI Viewer](https://jmspae.github.io/SMHI-Viewer/) | A simple static webmap for viewing data supplied by the various APIs of the Swedish Meteorological and Hydrological Institute (work in progress).
 
 <!--
 **JmsPae/JmsPae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
