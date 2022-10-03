@@ -2,7 +2,7 @@
 
 Studying Land Surveying Technology at Gävle University College. Enjoy me some computer graphics, though nowerdays GIS/Geospatial is what I'm usually up to.
 
-- [GeoDistrib](https://github.com/JmsPae/GeoDistrib/)
+- [GeoDistrib](https://github.com/JmsPae/GeoDistrib/) | Tool for distributing cell attributes/variables among contained features.
 - [SMHI Viewer](https://jmspae.github.io/SMHI-Viewer/) | Webmap for viewing data supplied by the various APIs of the Swedish Meteorological and Hydrological Institute (work in progress).
 
 <!--
