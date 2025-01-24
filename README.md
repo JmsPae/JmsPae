@@ -1,6 +1,6 @@
 # James Pae
 
-Studying Land Surveying Technology at Gävle University College. Enjoy me some computer graphics, though nowerdays GIS/Geospatial is what I'm usually up to.
+Enjoy me some computer graphics, though nowerdays GIS/Geospatial is what I'm usually up to.
 
 - [GeoDistrib](https://github.com/JmsPae/GeoDistrib/) | Tool for distributing cell attributes/variables among contained features.
 - [Historiska Indelningar](https://github.com/JmsPae/historiska-indelningar) | Historical Swedish administrative boundaries derived from SCB data.
